@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:c3da721c-734b-4a49-a8cf-3b7be9ee45f7"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Utsuro no Hako to Zero no Maria - Volume 01</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="Text/Body.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>1st time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#1st_time"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>23rd time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#23rd_time"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>1,050th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#12C050th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>13,118th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#132C118th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>10,876th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#102C876th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>8,946th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#82C946th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>2,601st time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#22C601st_time"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>2,602nd time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#22C602nd_time"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>4,609th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#42C609th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>5,232nd time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#52C232nd_time"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>27,753rd time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#272C753rd_time"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>27,753rd time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#272C753rd_time_2"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>27,754th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#272C754th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>3,087th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#32C087th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>27,754th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#272C754th_time_2"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>0th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#0th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>27,755th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#272C755th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>27,755th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#272C755th_time_2"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>27,755th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#272C755th_time_3"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>27,755th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#272C755th_time_4"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>0th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#0th_time_2"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>5,000th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#52C000th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>6,000th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#62C000th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>7,000th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#72C000th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>8,000th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#82C000th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>9,000th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#92C000th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>9,999th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#92C999th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>10,000th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#102C000th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>27,755th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#272C755th_time_5"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>27,756th time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#272C756th_time"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>1st time</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#1st_time_2"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Authors Notes</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#AuthorE28099s_Notes"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Comments</text>
+      </navLabel>
+      <content src="Text/Body.xhtml#Comments"/>
+    </navPoint>
+  </navMap>
+</ncx>

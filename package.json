@@ -1,0 +1,14 @@
+{
+  "name": "epub-editor",
+  "version": "1.0.0",
+  "description": "Restyle epub folder",
+  "main": "epub-editor.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "codeoguz",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^8.1.0"
+  }
+}

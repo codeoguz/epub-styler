@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c3da721c-734b-4a49-a8cf-3b7be9ee45f7</dc:identifier>
+    <dc:title>Utsuro no Hako to Zero no Maria - Volume 01</dc:title>
+    <dc:creator opf:file-as="Mikage, Eiji" opf:role="aut">Eiji Mikage</dc:creator>
+    <dc:date>2015-11-01</dc:date>
+    <dc:date opf:event="creation">2015-11-01</dc:date>
+    <dc:contributor opf:role="edt">Simon</dc:contributor>
+    <dc:contributor opf:file-as="EusthEnoptEron" opf:role="trl">EusthEnoptEron</dc:contributor>
+    <dc:date opf:event="publication">2015-11-01</dc:date>
+    <dc:publisher>Baka-Tsuki</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:rights>All materials' copyrights reserved by their respective authors and the associated publishers. Please respect their rights. Works will be deleted upon request by copyright holders.</dc:rights>
+    <meta content="Cover.jpg" name="cover"/>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css"/>
+    <item href="Styles/page_styles.css" id="page_styles.css" media-type="text/css"/>
+    <item href="Text/Body.xhtml" id="Body.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/Cover.jpg" id="Cover.jpg" media-type="image/jpeg"/>
+    <item href="Images/UtsuroNoHako_002.jpg" id="UtsuroNoHako_002.jpg" media-type="image/jpeg"/>
+    <item href="Images/UtsuroNoHako_003.jpg" id="UtsuroNoHako_003.jpg" media-type="image/jpeg"/>
+    <item href="Images/UtsuroNoHako_004.jpg" id="UtsuroNoHako_004.jpg" media-type="image/jpeg"/>
+    <item href="Images/UtsuroNoHako_005.jpg" id="UtsuroNoHako_005.jpg" media-type="image/jpeg"/>
+    <item href="Images/UtsuroNoHako_006.jpg" id="UtsuroNoHako_006.jpg" media-type="image/jpeg"/>
+    <item href="Images/Utsuro_no_Hako_vol1_pic1.jpg" id="Utsuro_no_Hako_vol1_pic1.jpg" media-type="image/jpeg"/>
+    <item href="Images/Utsuro_no_Hako_vol1_pic2.jpg" id="Utsuro_no_Hako_vol1_pic2.jpg" media-type="image/jpeg"/>
+    <item href="Images/Utsuro_no_Hako_vol1_pic3.jpg" id="Utsuro_no_Hako_vol1_pic3.jpg" media-type="image/jpeg"/>
+    <item href="Text/Illustrations.xhtml" id="Illustrations.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover.xhtml"/>
+    <itemref idref="Illustrations.xhtml"/>
+    <itemref idref="Body.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/Cover.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
